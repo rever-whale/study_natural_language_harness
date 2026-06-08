@@ -1,0 +1,12 @@
+[book]
+title = "자연어 하네스와 팀 프롬프팅"
+authors = ["study-vault"]
+language = "ko"
+src = "src"
+
+[build]
+build-dir = "book"
+
+[output.html]
+git-repository-url = "https://github.com/ai-boost/awesome-harness-engineering"
+site-url = "/natural-language-harness/"
