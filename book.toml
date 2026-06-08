@@ -9,4 +9,4 @@ build-dir = "book"
 
 [output.html]
 git-repository-url = "https://github.com/ai-boost/awesome-harness-engineering"
-site-url = "/natural-language-harness/"
+site-url = "/study_natural_language_harness/"
